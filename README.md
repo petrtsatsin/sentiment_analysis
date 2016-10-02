@@ -26,9 +26,7 @@ Once sentente translated to an image like representation convolutional operation
 ## Data Preprocessing
 
 I wrote a simple notebook to convert data from a Kaggel train tsv to a format that can be digested by
-the code from this repositories:
-    *[sent-conv-torch] (https://github.com/harvardnlp/sent-conv-torch)
-    *[CNN_sentence] (https://github.com/yoonkim/CNN_sentence)
+the code from this repositories: [sent-conv-torch] (https://github.com/harvardnlp/sent-conv-torch), [CNN_sentence] (https://github.com/yoonkim/CNN_sentence).
 
 At first I used original Kim's python/Theano implementation. While I was able to reploduce Kim's results on a RT data det (provided with the repo) I had a performance issue when I swithed to a Kaggle data set which is order of magnitude lardger. 10-fold cross validation for this data set was intracable on my local machine, so I had to use EC2 g2.2xlarge with GPU acceleration. Setting up this machine for Theano and Torch is yet another story wich took me a while because of the nvidia driver installation problems. I foud this page is a life saver http://tleyden.github.io/blog/2015/11/22/cuda-7-dot-5-on-aws-gpu-instance-running-ubuntu-14-dot-04/. 
 After setting up the machine I tried to run original Theano implementation and encountered the problem of not having enough memory on GPU for "Kaggle" datasert. I decided to swith to a torch implementation [code] (https://github.com/harvardnlp/sent-conv-torch) and install torch on my EC2 machine. I had to fix some minor problems since initial version wasn't working for me. I suggest to use my fork of the [code] (https://github.com/harvardnlp/sent-conv-torch) if you want to reproduce the results. Torch implementation much faster then Theanos (IMHO).
@@ -43,7 +41,10 @@ After that I use the preprocessing util from sent-conv-torch to create a custom 
 The script will output custom.hdf5 input file for torch training tool.
 
 ## Results.
-
+Dataset | dev | test
+---|---|---
+binary classification | |
+all sentiment classes | |
       
 
 ## Relevant publications
