@@ -1,0 +1,573 @@
+1	
+loading data...	
+data loaded!	
+vocab size: 	15294	
+vec size: 	300	
+==> fold 	1	
+epoch:	1	train perf:	82.800632911392	%, val perf 	86.226522481503	%	
+epoch:	2	train perf:	85.856012658228	%, val perf 	86.866818440524	%	
+epoch:	3	train perf:	87.129746835443	%, val perf 	87.414627205464	%	
+epoch:	4	train perf:	87.960443037975	%, val perf 	87.869948776323	%	
+epoch:	5	train perf:	88.383702531646	%, val perf 	87.677859988617	%	
+epoch:	6	train perf:	89.026898734177	%, val perf 	87.791690381332	%	
+epoch:	7	train perf:	89.272943037975	%, val perf 	88.104723961298	%	
+epoch:	8	train perf:	89.606012658228	%, val perf 	88.090495162208	%	
+epoch:	9	train perf:	90.058544303797	%, val perf 	88.147410358566	%	
+epoch:	10	train perf:	90.238132911392	%, val perf 	87.62094479226	%	
+epoch:	11	train perf:	90.54667721519	%, val perf 	87.891291974957	%	
+epoch:	12	train perf:	90.772151898734	%, val perf 	87.734775184974	%	
+epoch:	13	train perf:	91.051424050633	%, val perf 	88.083380762664	%	
+epoch:	14	train perf:	91.293512658228	%, val perf 	88.090495162208	%	
+epoch:	15	train perf:	91.606803797468	%, val perf 	87.827262379055	%	
+epoch:	16	train perf:	91.746835443038	%, val perf 	87.998007968127	%	
+epoch:	17	train perf:	91.947784810127	%, val perf 	88.083380762664	%	
+epoch:	18	train perf:	92.242088607595	%, val perf 	87.969550369949	%	
+epoch:	19	train perf:	92.364715189873	%, val perf 	87.905520774047	%	
+epoch:	20	train perf:	92.621044303797	%, val perf 	87.642287990894	%	
+epoch:	21	train perf:	92.704905063291	%, val perf 	87.805919180421	%	
+epoch:	22	train perf:	92.983386075949	%, val perf 	87.741889584519	%	
+epoch:	23	train perf:	93.151898734177	%, val perf 	87.564029595902	%	
+epoch:	24	train perf:	93.322784810127	%, val perf 	87.364826408651	%	
+epoch:	25	train perf:	93.467563291139	%, val perf 	87.706317586796	%	
+epoch:	26	train perf:	93.669303797468	%, val perf 	87.749003984064	%	
+epoch:	27	train perf:	93.824367088608	%, val perf 	87.720546385885	%	
+epoch:	28	train perf:	94.000791139241	%, val perf 	87.820147979511	%	
+epoch:	29	train perf:	94.142405063291	%, val perf 	87.485771200911	%	
+epoch:	30	train perf:	94.301424050633	%, val perf 	87.5	%	
+epoch:	31	train perf:	94.408227848101	%, val perf 	87.507114399545	%	
+epoch:	32	train perf:	94.599683544304	%, val perf 	87.670745589072	%	
+epoch:	33	train perf:	94.776898734177	%, val perf 	87.151394422311	%	
+epoch:	34	train perf:	94.776107594937	%, val perf 	87.407512805919	%	
+epoch:	35	train perf:	94.876582278481	%, val perf 	87.357712009106	%	
+epoch:	36	train perf:	95.055379746835	%, val perf 	87.300796812749	%	
+epoch:	37	train perf:	95.095727848101	%, val perf 	87.343483210017	%	
+epoch:	38	train perf:	95.251582278481	%, val perf 	87.172737620945	%	
+epoch:	39	train perf:	95.32832278481	%, val perf 	87.094479225953	%	
+epoch:	40	train perf:	95.45253164557	%, val perf 	87.400398406375	%	
+epoch:	41	train perf:	95.616297468354	%, val perf 	87.258110415481	%	
+epoch:	42	train perf:	95.621044303797	%, val perf 	87.222538417758	%	
+epoch:	43	train perf:	95.726265822785	%, val perf 	86.95219123506	%	
+epoch:	44	train perf:	95.742879746835	%, val perf 	87.279453614115	%	
+epoch:	45	train perf:	95.872626582278	%, val perf 	87.265224815026	%	
+epoch:	46	train perf:	95.977056962025	%, val perf 	87.194080819579	%	
+epoch:	47	train perf:	96.063291139241	%, val perf 	87.172737620945	%	
+epoch:	48	train perf:	96.098101265823	%, val perf 	87.236767216847	%	
+epoch:	49	train perf:	96.189082278481	%, val perf 	87.222538417758	%	
+epoch:	50	train perf:	96.253955696203	%, val perf 	87.094479225953	%	
+best dev err:	88.147410358566	%, epoch 	9	
+test perf 	87.261309752659	%	
+saving checkpoint to 	results/20161002_0740_model_1.t7	
+==> fold 	2	
+epoch:	1	train perf:	82.761075949367	%, val perf 	85.756972111554	%	
+epoch:	2	train perf:	86.007911392405	%, val perf 	86.624928856005	%	
+epoch:	3	train perf:	87.174050632911	%, val perf 	87.265224815026	%	
+epoch:	4	train perf:	87.960443037975	%, val perf 	87.151394422311	%	
+epoch:	5	train perf:	88.532436708861	%, val perf 	87.734775184974	%	
+epoch:	6	train perf:	89.096518987342	%, val perf 	87.599601593625	%	
+epoch:	7	train perf:	89.340981012658	%, val perf 	87.613830392715	%	
+epoch:	8	train perf:	89.904272151899	%, val perf 	87.564029595902	%	
+epoch:	9	train perf:	90.045886075949	%, val perf 	87.784575981787	%	
+epoch:	10	train perf:	90.378164556962	%, val perf 	87.435970404098	%	
+epoch:	11	train perf:	90.65664556962	%, val perf 	87.492885600455	%	
+epoch:	12	train perf:	90.806962025316	%, val perf 	87.798804780876	%	
+epoch:	13	train perf:	91.080696202532	%, val perf 	87.492885600455	%	
+epoch:	14	train perf:	91.319620253165	%, val perf 	87.692088787706	%	
+epoch:	15	train perf:	91.514240506329	%, val perf 	87.677859988617	%	
+epoch:	16	train perf:	91.784810126582	%, val perf 	87.72766078543	%	
+epoch:	17	train perf:	91.977056962025	%, val perf 	87.122936824132	%	
+epoch:	18	train perf:	92.269778481013	%, val perf 	87.37905520774	%	
+epoch:	19	train perf:	92.400316455696	%, val perf 	87.05890722823	%	
+epoch:	20	train perf:	92.526898734177	%, val perf 	87.044678429141	%	
+epoch:	21	train perf:	92.871835443038	%, val perf 	87.236767216847	%	
+epoch:	22	train perf:	92.969936708861	%, val perf 	87.087364826409	%	
+epoch:	23	train perf:	93.20253164557	%, val perf 	87.151394422311	%	
+epoch:	24	train perf:	93.361550632911	%, val perf 	87.307911212294	%	
+epoch:	25	train perf:	93.457278481013	%, val perf 	87.073136027319	%	
+epoch:	26	train perf:	93.673259493671	%, val perf 	86.674729652817	%	
+epoch:	27	train perf:	93.840981012658	%, val perf 	86.866818440524	%	
+epoch:	28	train perf:	93.962816455696	%, val perf 	87.115822424587	%	
+epoch:	29	train perf:	94.194620253165	%, val perf 	86.980648833238	%	
+epoch:	30	train perf:	94.191455696203	%, val perf 	87.080250426864	%	
+epoch:	31	train perf:	94.426424050633	%, val perf 	86.84547524189	%	
+epoch:	32	train perf:	94.5	%, val perf 	87.122936824132	%	
+epoch:	33	train perf:	94.625	%, val perf 	86.8312464428	%	
+epoch:	34	train perf:	94.742088607595	%, val perf 	86.966420034149	%	
+epoch:	35	train perf:	94.909018987342	%, val perf 	86.93796243597	%	
+epoch:	36	train perf:	94.962816455696	%, val perf 	86.660500853728	%	
+epoch:	37	train perf:	95.17246835443	%, val perf 	86.660500853728	%	
+epoch:	38	train perf:	95.239715189873	%, val perf 	86.824132043256	%	
+epoch:	39	train perf:	95.375791139241	%, val perf 	86.603585657371	%	
+epoch:	40	train perf:	95.415348101266	%, val perf 	86.909504837792	%	
+epoch:	41	train perf:	95.564873417722	%, val perf 	86.767216846898	%	
+epoch:	42	train perf:	95.649525316456	%, val perf 	86.688958451907	%	
+epoch:	43	train perf:	95.761867088608	%, val perf 	86.503984063745	%	
+epoch:	44	train perf:	95.713607594937	%, val perf 	86.760102447353	%	
+epoch:	45	train perf:	95.867088607595	%, val perf 	86.610700056915	%	
+epoch:	46	train perf:	95.915348101266	%, val perf 	86.717416050085	%	
+epoch:	47	train perf:	95.978639240506	%, val perf 	86.667615253273	%	
+epoch:	48	train perf:	96.147943037975	%, val perf 	86.439954467843	%	
+epoch:	49	train perf:	96.100474683544	%, val perf 	86.84547524189	%	
+epoch:	50	train perf:	96.350474683544	%, val perf 	86.596471257826	%	
+best dev err:	87.798804780876	%, epoch 	12	
+test perf 	87.985390234525	%	
+saving checkpoint to 	results/20161002_0951_model_2.t7	
+==> fold 	3	
+epoch:	1	train perf:	82.471518987342	%, val perf 	86.141149686966	%	
+epoch:	2	train perf:	85.977056962025	%, val perf 	87.037564029596	%	
+epoch:	3	train perf:	87.23496835443	%, val perf 	87.684974388162	%	
+epoch:	4	train perf:	88.029272151899	%, val perf 	87.628059191804	%	
+epoch:	5	train perf:	88.545094936709	%, val perf 	87.841491178145	%	
+epoch:	6	train perf:	88.970727848101	%, val perf 	87.663631189528	%	
+epoch:	7	train perf:	89.361550632911	%, val perf 	87.706317586796	%	
+epoch:	8	train perf:	89.587025316456	%, val perf 	87.884177575413	%	
+epoch:	9	train perf:	90.071993670886	%, val perf 	87.905520774047	%	
+epoch:	10	train perf:	90.348101265823	%, val perf 	88.118952760387	%	
+epoch:	11	train perf:	90.555379746835	%, val perf 	87.898406374502	%	
+epoch:	12	train perf:	90.89082278481	%, val perf 	87.699203187251	%	
+epoch:	13	train perf:	91.100474683544	%, val perf 	88.005122367672	%	
+epoch:	14	train perf:	91.291139240506	%, val perf 	87.585372794536	%	
+epoch:	15	train perf:	91.545094936709	%, val perf 	87.998007968127	%	
+epoch:	16	train perf:	91.766613924051	%, val perf 	87.471542401821	%	
+epoch:	17	train perf:	91.863924050633	%, val perf 	87.741889584519	%	
+epoch:	18	train perf:	92.1875	%, val perf 	87.407512805919	%	
+epoch:	19	train perf:	92.318829113924	%, val perf 	87.613830392715	%	
+epoch:	20	train perf:	92.600474683544	%, val perf 	87.336368810472	%	
+epoch:	21	train perf:	92.803006329114	%, val perf 	87.492885600455	%	
+epoch:	22	train perf:	92.9375	%, val perf 	87.471542401821	%	
+epoch:	23	train perf:	93.148734177215	%, val perf 	87.528457598179	%	
+epoch:	24	train perf:	93.275316455696	%, val perf 	87.592487194081	%	
+epoch:	25	train perf:	93.538765822785	%, val perf 	87.250996015936	%	
+epoch:	26	train perf:	93.631329113924	%, val perf 	87.492885600455	%	
+epoch:	27	train perf:	93.763449367089	%, val perf 	87.001992031873	%	
+epoch:	28	train perf:	93.935126582278	%, val perf 	87.279453614115	%	
+epoch:	29	train perf:	94.196993670886	%, val perf 	87.158508821855	%	
+epoch:	30	train perf:	94.243670886076	%, val perf 	87.28656801366	%	
+epoch:	31	train perf:	94.42246835443	%, val perf 	86.61781445646	%	
+epoch:	32	train perf:	94.505537974684	%, val perf 	86.859704040979	%	
+epoch:	33	train perf:	94.759493670886	%, val perf 	86.987763232783	%	
+epoch:	34	train perf:	94.76582278481	%, val perf 	86.838360842345	%	
+epoch:	35	train perf:	94.871835443038	%, val perf 	87.265224815026	%	
+epoch:	36	train perf:	94.934335443038	%, val perf 	86.838360842345	%	
+epoch:	37	train perf:	95.098892405063	%, val perf 	86.973534433694	%	
+epoch:	38	train perf:	95.215189873418	%, val perf 	87.016220830962	%	
+epoch:	39	train perf:	95.253955696203	%, val perf 	86.945076835515	%	
+epoch:	40	train perf:	95.352848101266	%, val perf 	86.809903244166	%	
+epoch:	41	train perf:	95.455696202532	%, val perf 	87.250996015936	%	
+epoch:	42	train perf:	95.509493670886	%, val perf 	86.945076835515	%	
+epoch:	43	train perf:	95.651107594937	%, val perf 	86.788560045532	%	
+epoch:	44	train perf:	95.731012658228	%, val perf 	86.980648833238	%	
+epoch:	45	train perf:	95.884493670886	%, val perf 	86.752988047809	%	
+epoch:	46	train perf:	95.977056962025	%, val perf 	86.987763232783	%	
+epoch:	47	train perf:	96.022151898734	%, val perf 	86.838360842345	%	
+epoch:	48	train perf:	95.994462025316	%, val perf 	86.560899260102	%	
+epoch:	49	train perf:	96.166930379747	%, val perf 	86.809903244166	%	
+epoch:	50	train perf:	96.266613924051	%, val perf 	86.582242458736	%	
+best dev err:	88.118952760387	%, epoch 	10	
+test perf 	87.908496732026	%	
+saving checkpoint to 	results/20161002_1137_model_3.t7	
+==> fold 	4	
+epoch:	1	train perf:	82.780063291139	%, val perf 	85.472396129767	%	
+epoch:	2	train perf:	85.757120253165	%, val perf 	86.461297666477	%	
+epoch:	3	train perf:	87.0625	%, val perf 	87.194080819579	%	
+epoch:	4	train perf:	87.901107594937	%, val perf 	87.507114399545	%	
+epoch:	5	train perf:	88.45332278481	%, val perf 	87.364826408651	%	
+epoch:	6	train perf:	88.977056962025	%, val perf 	87.585372794536	%	
+epoch:	7	train perf:	89.291930379747	%, val perf 	87.684974388162	%	
+epoch:	8	train perf:	89.710443037975	%, val perf 	87.692088787706	%	
+epoch:	9	train perf:	90.03164556962	%, val perf 	87.820147979511	%	
+epoch:	10	train perf:	90.273734177215	%, val perf 	87.912635173591	%	
+epoch:	11	train perf:	90.584651898734	%, val perf 	87.969550369949	%	
+epoch:	12	train perf:	90.820411392405	%, val perf 	88.012236767217	%	
+epoch:	13	train perf:	91.10917721519	%, val perf 	87.94109277177	%	
+epoch:	14	train perf:	91.278481012658	%, val perf 	87.827262379055	%	
+epoch:	15	train perf:	91.537183544304	%, val perf 	87.877063175868	%	
+epoch:	16	train perf:	91.720727848101	%, val perf 	87.613830392715	%	
+epoch:	17	train perf:	92.004746835443	%, val perf 	87.72766078543	%	
+epoch:	18	train perf:	92.222310126582	%, val perf 	87.692088787706	%	
+epoch:	19	train perf:	92.371835443038	%, val perf 	87.62094479226	%	
+epoch:	20	train perf:	92.592563291139	%, val perf 	87.592487194081	%	
+epoch:	21	train perf:	92.754746835443	%, val perf 	87.457313602732	%	
+epoch:	22	train perf:	93.000791139241	%, val perf 	87.222538417758	%	
+epoch:	23	train perf:	93.101265822785	%, val perf 	87.542686397268	%	
+epoch:	24	train perf:	93.258702531646	%, val perf 	87.428856004553	%	
+epoch:	25	train perf:	93.472310126582	%, val perf 	87.514228799089	%	
+epoch:	26	train perf:	93.625	%, val perf 	87.350597609562	%	
+epoch:	27	train perf:	93.783227848101	%, val perf 	87.172737620945	%	
+epoch:	28	train perf:	93.908227848101	%, val perf 	87.407512805919	%	
+epoch:	29	train perf:	94.101265822785	%, val perf 	87.471542401821	%	
+epoch:	30	train perf:	94.212816455696	%, val perf 	87.300796812749	%	
+epoch:	31	train perf:	94.391613924051	%, val perf 	87.421741605009	%	
+epoch:	32	train perf:	94.544303797468	%, val perf 	87.435970404098	%	
+epoch:	33	train perf:	94.621044303797	%, val perf 	87.28656801366	%	
+epoch:	34	train perf:	94.681962025316	%, val perf 	87.371940808196	%	
+epoch:	35	train perf:	94.85996835443	%, val perf 	87.300796812749	%	
+epoch:	36	train perf:	95.029272151899	%, val perf 	87.293682413204	%	
+epoch:	37	train perf:	95.049841772152	%, val perf 	87.400398406375	%	
+epoch:	38	train perf:	95.215981012658	%, val perf 	87.307911212294	%	
+epoch:	39	train perf:	95.336234177215	%, val perf 	87.250996015936	%	
+epoch:	40	train perf:	95.377373417722	%, val perf 	87.364826408651	%	
+epoch:	41	train perf:	95.488132911392	%, val perf 	87.194080819579	%	
+epoch:	42	train perf:	95.567246835443	%, val perf 	87.514228799089	%	
+epoch:	43	train perf:	95.662183544304	%, val perf 	87.258110415481	%	
+epoch:	44	train perf:	95.758702531646	%, val perf 	87.208309618668	%	
+epoch:	45	train perf:	95.787974683544	%, val perf 	87.179852020489	%	
+epoch:	46	train perf:	95.962816455696	%, val perf 	87.300796812749	%	
+epoch:	47	train perf:	95.990506329114	%, val perf 	87.357712009106	%	
+epoch:	48	train perf:	96.075158227848	%, val perf 	87.194080819579	%	
+epoch:	49	train perf:	96.132911392405	%, val perf 	87.258110415481	%	
+epoch:	50	train perf:	96.261867088608	%, val perf 	87.151394422311	%	
+best dev err:	88.012236767217	%, epoch 	12	
+test perf 	87.914904523901	%	
+saving checkpoint to 	results/20161002_1320_model_4.t7	
+==> fold 	5	
+epoch:	1	train perf:	82.846518987342	%, val perf 	85.550654524758	%	
+epoch:	2	train perf:	86.03164556962	%, val perf 	86.326124075128	%	
+epoch:	3	train perf:	87.150316455696	%, val perf 	86.290552077405	%	
+epoch:	4	train perf:	88.018196202532	%, val perf 	86.909504837792	%	
+epoch:	5	train perf:	88.665348101266	%, val perf 	87.044678429141	%	
+epoch:	6	train perf:	89.012658227848	%, val perf 	87.336368810472	%	
+epoch:	7	train perf:	89.429588607595	%, val perf 	87.471542401821	%	
+epoch:	8	train perf:	89.678797468354	%, val perf 	87.400398406375	%	
+epoch:	9	train perf:	90.073575949367	%, val perf 	86.84547524189	%	
+epoch:	10	train perf:	90.356012658228	%, val perf 	87.670745589072	%	
+epoch:	11	train perf:	90.606803797468	%, val perf 	87.37905520774	%	
+epoch:	12	train perf:	90.886867088608	%, val perf 	87.293682413204	%	
+epoch:	13	train perf:	91.103639240506	%, val perf 	87.585372794536	%	
+epoch:	14	train perf:	91.334651898734	%, val perf 	87.60671599317	%	
+epoch:	15	train perf:	91.652689873418	%, val perf 	87.322140011383	%	
+epoch:	16	train perf:	91.712025316456	%, val perf 	87.414627205464	%	
+epoch:	17	train perf:	91.924841772152	%, val perf 	87.492885600455	%	
+epoch:	18	train perf:	92.226265822785	%, val perf 	87.414627205464	%	
+epoch:	19	train perf:	92.340981012658	%, val perf 	87.307911212294	%	
+epoch:	20	train perf:	92.571202531646	%, val perf 	87.357712009106	%	
+epoch:	21	train perf:	92.768987341772	%, val perf 	87.208309618668	%	
+epoch:	22	train perf:	92.967563291139	%, val perf 	87.201195219124	%	
+epoch:	23	train perf:	93.165348101266	%, val perf 	87.343483210017	%	
+epoch:	24	train perf:	93.374208860759	%, val perf 	87.087364826409	%	
+epoch:	25	train perf:	93.446202531646	%, val perf 	87.122936824132	%	
+epoch:	26	train perf:	93.663765822785	%, val perf 	87.066021627775	%	
+epoch:	27	train perf:	93.826740506329	%, val perf 	87.28656801366	%	
+epoch:	28	train perf:	93.988924050633	%, val perf 	87.215424018213	%	
+epoch:	29	train perf:	94.098101265823	%, val perf 	86.923733636881	%	
+epoch:	30	train perf:	94.290348101266	%, val perf 	87.094479225953	%	
+epoch:	31	train perf:	94.348101265823	%, val perf 	86.945076835515	%	
+epoch:	32	train perf:	94.526107594937	%, val perf 	86.959305634604	%	
+epoch:	33	train perf:	94.615506329114	%, val perf 	87.122936824132	%	
+epoch:	34	train perf:	94.829113924051	%, val perf 	87.080250426864	%	
+epoch:	35	train perf:	94.787974683544	%, val perf 	86.923733636881	%	
+epoch:	36	train perf:	95.007120253165	%, val perf 	86.966420034149	%	
+epoch:	37	train perf:	95.101265822785	%, val perf 	86.994877632328	%	
+epoch:	38	train perf:	95.166930379747	%, val perf 	86.838360842345	%	
+epoch:	39	train perf:	95.310126582278	%, val perf 	86.84547524189	%	
+epoch:	40	train perf:	95.407436708861	%, val perf 	87.066021627775	%	
+epoch:	41	train perf:	95.462816455696	%, val perf 	86.973534433694	%	
+epoch:	42	train perf:	95.553797468354	%, val perf 	87.05890722823	%	
+epoch:	43	train perf:	95.685917721519	%, val perf 	87.037564029596	%	
+epoch:	44	train perf:	95.738924050633	%, val perf 	86.817017643711	%	
+epoch:	45	train perf:	95.837816455696	%, val perf 	86.817017643711	%	
+epoch:	46	train perf:	95.923259493671	%, val perf 	86.881047239613	%	
+epoch:	47	train perf:	95.939082278481	%, val perf 	86.760102447353	%	
+epoch:	48	train perf:	96.038765822785	%, val perf 	86.752988047809	%	
+epoch:	49	train perf:	96.190664556962	%, val perf 	86.916619237336	%	
+epoch:	50	train perf:	96.264240506329	%, val perf 	86.916619237336	%	
+best dev err:	87.670745589072	%, epoch 	10	
+test perf 	87.754709727028	%	
+saving checkpoint to 	results/20161002_1502_model_5.t7	
+==> fold 	6	
+epoch:	1	train perf:	82.897151898734	%, val perf 	85.72140011383	%	
+epoch:	2	train perf:	85.925632911392	%, val perf 	86.802788844622	%	
+epoch:	3	train perf:	87.213607594937	%, val perf 	87.130051223677	%	
+epoch:	4	train perf:	87.967563291139	%, val perf 	87.407512805919	%	
+epoch:	5	train perf:	88.568037974684	%, val perf 	87.471542401821	%	
+epoch:	6	train perf:	89.053006329114	%, val perf 	87.172737620945	%	
+epoch:	7	train perf:	89.490506329114	%, val perf 	87.599601593625	%	
+epoch:	8	train perf:	89.71835443038	%, val perf 	87.613830392715	%	
+epoch:	9	train perf:	89.956487341772	%, val perf 	87.891291974957	%	
+epoch:	10	train perf:	90.408227848101	%, val perf 	87.549800796813	%	
+epoch:	11	train perf:	90.551424050633	%, val perf 	87.62094479226	%	
+epoch:	12	train perf:	90.877373417722	%, val perf 	87.777461582242	%	
+epoch:	13	train perf:	91.139240506329	%, val perf 	87.770347182698	%	
+epoch:	14	train perf:	91.380537974684	%, val perf 	87.820147979511	%	
+epoch:	15	train perf:	91.579113924051	%, val perf 	87.699203187251	%	
+epoch:	16	train perf:	91.729430379747	%, val perf 	87.535571997723	%	
+epoch:	17	train perf:	91.886075949367	%, val perf 	87.556915196357	%	
+epoch:	18	train perf:	92.174841772152	%, val perf 	87.471542401821	%	
+epoch:	19	train perf:	92.46914556962	%, val perf 	87.677859988617	%	
+epoch:	20	train perf:	92.716772151899	%, val perf 	87.585372794536	%	
+epoch:	21	train perf:	92.821993670886	%, val perf 	87.37905520774	%	
+epoch:	22	train perf:	93.021360759494	%, val perf 	87.464428002277	%	
+epoch:	23	train perf:	93.259493670886	%, val perf 	87.549800796813	%	
+epoch:	24	train perf:	93.423259493671	%, val perf 	87.172737620945	%	
+epoch:	25	train perf:	93.541139240506	%, val perf 	87.1656232214	%	
+epoch:	26	train perf:	93.746044303797	%, val perf 	87.265224815026	%	
+epoch:	27	train perf:	93.834651898734	%, val perf 	87.194080819579	%	
+epoch:	28	train perf:	94.045094936709	%, val perf 	87.044678429141	%	
+epoch:	29	train perf:	94.185917721519	%, val perf 	87.179852020489	%	
+epoch:	30	train perf:	94.363924050633	%, val perf 	87.236767216847	%	
+epoch:	31	train perf:	94.517405063291	%, val perf 	87.023335230507	%	
+epoch:	32	train perf:	94.582278481013	%, val perf 	86.987763232783	%	
+epoch:	33	train perf:	94.723101265823	%, val perf 	87.115822424587	%	
+epoch:	34	train perf:	94.829113924051	%, val perf 	87.066021627775	%	
+epoch:	35	train perf:	95.044303797468	%, val perf 	86.788560045532	%	
+epoch:	36	train perf:	95.027689873418	%, val perf 	87.030449630051	%	
+epoch:	37	train perf:	95.28085443038	%, val perf 	86.852589641434	%	
+epoch:	38	train perf:	95.242088607595	%, val perf 	86.866818440524	%	
+epoch:	39	train perf:	95.410601265823	%, val perf 	87.101593625498	%	
+epoch:	40	train perf:	95.526898734177	%, val perf 	86.973534433694	%	
+epoch:	41	train perf:	95.506329113924	%, val perf 	87.009106431417	%	
+epoch:	42	train perf:	95.67167721519	%, val perf 	86.866818440524	%	
+epoch:	43	train perf:	95.745253164557	%, val perf 	86.8312464428	%	
+epoch:	44	train perf:	95.892405063291	%, val perf 	86.909504837792	%	
+epoch:	45	train perf:	95.848892405063	%, val perf 	86.781445645987	%	
+epoch:	46	train perf:	96.018987341772	%, val perf 	86.838360842345	%	
+epoch:	47	train perf:	96.098101265823	%, val perf 	86.866818440524	%	
+epoch:	48	train perf:	96.116297468354	%, val perf 	86.859704040979	%	
+epoch:	49	train perf:	96.244462025316	%, val perf 	86.923733636881	%	
+epoch:	50	train perf:	96.277689873418	%, val perf 	86.881047239613	%	
+best dev err:	87.891291974957	%, epoch 	9	
+test perf 	87.805972062027	%	
+saving checkpoint to 	results/20161002_1645_model_6.t7	
+==> fold 	7	
+epoch:	1	train perf:	82.620253164557	%, val perf 	85.650256118384	%	
+epoch:	2	train perf:	85.924050632911	%, val perf 	86.546670461013	%	
+epoch:	3	train perf:	87.173259493671	%, val perf 	86.518212862834	%	
+epoch:	4	train perf:	88.018196202532	%, val perf 	86.873932840068	%	
+epoch:	5	train perf:	88.458860759494	%, val perf 	87.05890722823	%	
+epoch:	6	train perf:	89.064873417722	%, val perf 	87.428856004553	%	
+epoch:	7	train perf:	89.500791139241	%, val perf 	87.684974388162	%	
+epoch:	8	train perf:	89.712025316456	%, val perf 	87.421741605009	%	
+epoch:	9	train perf:	89.98496835443	%, val perf 	87.60671599317	%	
+epoch:	10	train perf:	90.347310126582	%, val perf 	87.706317586796	%	
+epoch:	11	train perf:	90.635284810127	%, val perf 	87.571143995447	%	
+epoch:	12	train perf:	90.841772151899	%, val perf 	87.5	%	
+epoch:	13	train perf:	91.027689873418	%, val perf 	87.329254410928	%	
+epoch:	14	train perf:	91.318037974684	%, val perf 	87.322140011383	%	
+epoch:	15	train perf:	91.621044303797	%, val perf 	87.229652817302	%	
+epoch:	16	train perf:	91.676424050633	%, val perf 	87.443084803643	%	
+epoch:	17	train perf:	91.926424050633	%, val perf 	87.300796812749	%	
+epoch:	18	train perf:	92.214398734177	%, val perf 	87.108708025043	%	
+epoch:	19	train perf:	92.382911392405	%, val perf 	87.037564029596	%	
+epoch:	20	train perf:	92.643196202532	%, val perf 	87.329254410928	%	
+epoch:	21	train perf:	92.813291139241	%, val perf 	87.258110415481	%	
+epoch:	22	train perf:	92.825158227848	%, val perf 	87.179852020489	%	
+epoch:	23	train perf:	93.111550632911	%, val perf 	87.115822424587	%	
+epoch:	24	train perf:	93.271360759494	%, val perf 	87.236767216847	%	
+epoch:	25	train perf:	93.508702531646	%, val perf 	87.158508821855	%	
+epoch:	26	train perf:	93.708860759494	%, val perf 	87.001992031873	%	
+epoch:	27	train perf:	93.837025316456	%, val perf 	86.966420034149	%	
+epoch:	28	train perf:	93.986550632911	%, val perf 	86.923733636881	%	
+epoch:	29	train perf:	94.117879746835	%, val perf 	87.037564029596	%	
+epoch:	30	train perf:	94.368670886076	%, val perf 	86.966420034149	%	
+epoch:	31	train perf:	94.369462025316	%, val perf 	86.8312464428	%	
+epoch:	32	train perf:	94.510284810127	%, val perf 	87.144280022766	%	
+epoch:	33	train perf:	94.70332278481	%, val perf 	87.080250426864	%	
+epoch:	34	train perf:	94.806962025316	%, val perf 	87.094479225953	%	
+epoch:	35	train perf:	94.89003164557	%, val perf 	87.037564029596	%	
+epoch:	36	train perf:	95.03164556962	%, val perf 	86.817017643711	%	
+epoch:	37	train perf:	95.142405063291	%, val perf 	86.980648833238	%	
+epoch:	38	train perf:	95.189082278481	%, val perf 	87.066021627775	%	
+epoch:	39	train perf:	95.356012658228	%, val perf 	87.001992031873	%	
+epoch:	40	train perf:	95.451740506329	%, val perf 	86.866818440524	%	
+epoch:	41	train perf:	95.524525316456	%, val perf 	86.93796243597	%	
+epoch:	42	train perf:	95.583860759494	%, val perf 	86.774331246443	%	
+epoch:	43	train perf:	95.738924050633	%, val perf 	86.788560045532	%	
+epoch:	44	train perf:	95.840981012658	%, val perf 	86.930848036426	%	
+epoch:	45	train perf:	95.795094936709	%, val perf 	86.866818440524	%	
+epoch:	46	train perf:	95.956487341772	%, val perf 	86.774331246443	%	
+epoch:	47	train perf:	96.014240506329	%, val perf 	86.866818440524	%	
+epoch:	48	train perf:	96.041930379747	%, val perf 	86.873932840068	%	
+epoch:	49	train perf:	96.113924050633	%, val perf 	86.873932840068	%	
+epoch:	50	train perf:	96.236550632911	%, val perf 	86.717416050085	%	
+best dev err:	87.706317586796	%, epoch 	10	
+test perf 	87.722670767653	%	
+saving checkpoint to 	results/20161002_1827_model_7.t7	
+==> fold 	8	
+epoch:	1	train perf:	82.746044303797	%, val perf 	85.287421741605	%	
+epoch:	2	train perf:	85.928006329114	%, val perf 	86.290552077405	%	
+epoch:	3	train perf:	87.147943037975	%, val perf 	87.122936824132	%	
+epoch:	4	train perf:	87.98417721519	%, val perf 	87.39328400683	%	
+epoch:	5	train perf:	88.563291139241	%, val perf 	87.613830392715	%	
+epoch:	6	train perf:	89.052215189873	%, val perf 	87.151394422311	%	
+epoch:	7	train perf:	89.481012658228	%, val perf 	87.628059191804	%	
+epoch:	8	train perf:	89.761075949367	%, val perf 	87.613830392715	%	
+epoch:	9	train perf:	90.119462025316	%, val perf 	87.044678429141	%	
+epoch:	10	train perf:	90.397943037975	%, val perf 	87.571143995447	%	
+epoch:	11	train perf:	90.651107594937	%, val perf 	87.450199203187	%	
+epoch:	12	train perf:	90.944620253165	%, val perf 	87.485771200911	%	
+epoch:	13	train perf:	91.168512658228	%, val perf 	87.39328400683	%	
+epoch:	14	train perf:	91.344936708861	%, val perf 	87.037564029596	%	
+epoch:	15	train perf:	91.666139240506	%, val perf 	87.172737620945	%	
+epoch:	16	train perf:	91.900316455696	%, val perf 	87.229652817302	%	
+epoch:	17	train perf:	91.998417721519	%, val perf 	87.087364826409	%	
+epoch:	18	train perf:	92.240506329114	%, val perf 	87.300796812749	%	
+epoch:	19	train perf:	92.431962025316	%, val perf 	87.315025611838	%	
+epoch:	20	train perf:	92.648734177215	%, val perf 	87.073136027319	%	
+epoch:	21	train perf:	92.840189873418	%, val perf 	87.108708025043	%	
+epoch:	22	train perf:	93.098101265823	%, val perf 	87.258110415481	%	
+epoch:	23	train perf:	93.323575949367	%, val perf 	87.130051223677	%	
+epoch:	24	train perf:	93.420094936709	%, val perf 	86.781445645987	%	
+epoch:	25	train perf:	93.524525316456	%, val perf 	86.852589641434	%	
+epoch:	26	train perf:	93.727056962025	%, val perf 	86.873932840068	%	
+epoch:	27	train perf:	93.919303797468	%, val perf 	86.95219123506	%	
+epoch:	28	train perf:	94.041139240506	%, val perf 	86.959305634604	%	
+epoch:	29	train perf:	94.279272151899	%, val perf 	86.895276038702	%	
+epoch:	30	train perf:	94.272943037975	%, val perf 	86.817017643711	%	
+epoch:	31	train perf:	94.450158227848	%, val perf 	86.795674445077	%	
+epoch:	32	train perf:	94.552215189873	%, val perf 	86.568013659647	%	
+epoch:	33	train perf:	94.786392405063	%, val perf 	86.660500853728	%	
+epoch:	34	train perf:	94.855221518987	%, val perf 	86.589356858281	%	
+epoch:	35	train perf:	94.913765822785	%, val perf 	86.624928856005	%	
+epoch:	36	train perf:	95.102848101266	%, val perf 	86.582242458736	%	
+epoch:	37	train perf:	95.159018987342	%, val perf 	86.4968696642	%	
+epoch:	38	train perf:	95.266613924051	%, val perf 	86.660500853728	%	
+epoch:	39	train perf:	95.442246835443	%, val perf 	86.667615253273	%	
+epoch:	40	train perf:	95.493670886076	%, val perf 	86.61781445646	%	
+epoch:	41	train perf:	95.445411392405	%, val perf 	86.475526465566	%	
+epoch:	42	train perf:	95.662183544304	%, val perf 	86.710301650541	%	
+epoch:	43	train perf:	95.742879746835	%, val perf 	86.525327262379	%	
+epoch:	44	train perf:	95.769778481013	%, val perf 	86.475526465566	%	
+epoch:	45	train perf:	95.911392405063	%, val perf 	86.532441661924	%	
+epoch:	46	train perf:	95.98496835443	%, val perf 	86.745873648264	%	
+epoch:	47	train perf:	96.065664556962	%, val perf 	86.596471257826	%	
+epoch:	48	train perf:	96.114715189873	%, val perf 	86.304780876494	%	
+epoch:	49	train perf:	96.208069620253	%, val perf 	86.525327262379	%	
+epoch:	50	train perf:	96.294303797468	%, val perf 	86.468412066022	%	
+best dev err:	87.628059191804	%, epoch 	7	
+test perf 	87.56247597078	%	
+saving checkpoint to 	results/20161002_2010_model_8.t7	
+==> fold 	9	
+epoch:	1	train perf:	82.754746835443	%, val perf 	85.415480933409	%	
+epoch:	2	train perf:	85.981012658228	%, val perf 	87.1656232214	%	
+epoch:	3	train perf:	87.066455696203	%, val perf 	87.428856004553	%	
+epoch:	4	train perf:	87.983386075949	%, val perf 	87.492885600455	%	
+epoch:	5	train perf:	88.668512658228	%, val perf 	87.820147979511	%	
+epoch:	6	train perf:	89.058544303797	%, val perf 	87.649402390438	%	
+epoch:	7	train perf:	89.419303797468	%, val perf 	87.478656801366	%	
+epoch:	8	train perf:	89.76582278481	%, val perf 	87.720546385885	%	
+epoch:	9	train perf:	90.083860759494	%, val perf 	87.933978372225	%	
+epoch:	10	train perf:	90.184335443038	%, val perf 	87.898406374502	%	
+epoch:	11	train perf:	90.662183544304	%, val perf 	87.677859988617	%	
+epoch:	12	train perf:	90.90664556962	%, val perf 	87.677859988617	%	
+epoch:	13	train perf:	91.092563291139	%, val perf 	87.706317586796	%	
+epoch:	14	train perf:	91.352056962025	%, val perf 	87.741889584519	%	
+epoch:	15	train perf:	91.534810126582	%, val perf 	87.549800796813	%	
+epoch:	16	train perf:	91.79667721519	%, val perf 	87.507114399545	%	
+epoch:	17	train perf:	92.099683544304	%, val perf 	87.827262379055	%	
+epoch:	18	train perf:	92.117879746835	%, val perf 	87.706317586796	%	
+epoch:	19	train perf:	92.391613924051	%, val perf 	87.684974388162	%	
+epoch:	20	train perf:	92.597310126582	%, val perf 	87.492885600455	%	
+epoch:	21	train perf:	92.82753164557	%, val perf 	87.542686397268	%	
+epoch:	22	train perf:	93.041139240506	%, val perf 	87.535571997723	%	
+epoch:	23	train perf:	93.119462025316	%, val perf 	87.421741605009	%	
+epoch:	24	train perf:	93.364715189873	%, val perf 	87.371940808196	%	
+epoch:	25	train perf:	93.434335443038	%, val perf 	87.549800796813	%	
+epoch:	26	train perf:	93.71835443038	%, val perf 	87.044678429141	%	
+epoch:	27	train perf:	93.823575949367	%, val perf 	87.023335230507	%	
+epoch:	28	train perf:	93.914556962025	%, val perf 	87.215424018213	%	
+epoch:	29	train perf:	94.056962025316	%, val perf 	86.994877632328	%	
+epoch:	30	train perf:	94.200949367089	%, val perf 	87.172737620945	%	
+epoch:	31	train perf:	94.477056962025	%, val perf 	87.108708025043	%	
+epoch:	32	train perf:	94.556170886076	%, val perf 	87.243881616392	%	
+epoch:	33	train perf:	94.675632911392	%, val perf 	87.137165623221	%	
+epoch:	34	train perf:	94.79746835443	%, val perf 	87.229652817302	%	
+epoch:	35	train perf:	94.965189873418	%, val perf 	86.987763232783	%	
+epoch:	36	train perf:	95.043512658228	%, val perf 	87.115822424587	%	
+epoch:	37	train perf:	95.114715189873	%, val perf 	87.044678429141	%	
+epoch:	38	train perf:	95.204113924051	%, val perf 	87.215424018213	%	
+epoch:	39	train perf:	95.331487341772	%, val perf 	87.201195219124	%	
+epoch:	40	train perf:	95.412974683544	%, val perf 	87.066021627775	%	
+epoch:	41	train perf:	95.554588607595	%, val perf 	87.265224815026	%	
+epoch:	42	train perf:	95.567246835443	%, val perf 	87.087364826409	%	
+epoch:	43	train perf:	95.707278481013	%, val perf 	87.087364826409	%	
+epoch:	44	train perf:	95.803797468354	%, val perf 	87.016220830962	%	
+epoch:	45	train perf:	95.807753164557	%, val perf 	86.895276038702	%	
+epoch:	46	train perf:	96.011075949367	%, val perf 	86.93796243597	%	
+epoch:	47	train perf:	96.050632911392	%, val perf 	87.115822424587	%	
+epoch:	48	train perf:	96.145569620253	%, val perf 	86.916619237336	%	
+epoch:	49	train perf:	96.155063291139	%, val perf 	86.802788844622	%	
+epoch:	50	train perf:	96.284018987342	%, val perf 	86.866818440524	%	
+best dev err:	87.933978372225	%, epoch 	9	
+test perf 	87.581699346405	%	
+saving checkpoint to 	results/20161002_2152_model_9.t7	
+==> fold 	10	
+epoch:	1	train perf:	82.701740506329	%, val perf 	86.454183266932	%	
+epoch:	2	train perf:	85.787974683544	%, val perf 	86.738759248719	%	
+epoch:	3	train perf:	87.201740506329	%, val perf 	87.137165623221	%	
+epoch:	4	train perf:	87.996835443038	%, val perf 	87.862834376779	%	
+epoch:	5	train perf:	88.45332278481	%, val perf 	87.820147979511	%	
+epoch:	6	train perf:	89.011867088608	%, val perf 	87.535571997723	%	
+epoch:	7	train perf:	89.285601265823	%, val perf 	88.118952760387	%	
+epoch:	8	train perf:	89.782436708861	%, val perf 	88.06203756403	%	
+epoch:	9	train perf:	89.95332278481	%, val perf 	87.919749573136	%	
+epoch:	10	train perf:	90.287183544304	%, val perf 	87.962435970404	%	
+epoch:	11	train perf:	90.454905063291	%, val perf 	87.770347182698	%	
+epoch:	12	train perf:	90.778481012658	%, val perf 	87.756118383608	%	
+epoch:	13	train perf:	91.027689873418	%, val perf 	88.019351166762	%	
+epoch:	14	train perf:	91.208069620253	%, val perf 	87.791690381332	%	
+epoch:	15	train perf:	91.494462025316	%, val perf 	87.791690381332	%	
+epoch:	16	train perf:	91.695411392405	%, val perf 	87.756118383608	%	
+epoch:	17	train perf:	91.931962025316	%, val perf 	87.706317586796	%	
+epoch:	18	train perf:	92.147943037975	%, val perf 	87.820147979511	%	
+epoch:	19	train perf:	92.393987341772	%, val perf 	87.692088787706	%	
+epoch:	20	train perf:	92.632120253165	%, val perf 	87.763232783153	%	
+epoch:	21	train perf:	92.752373417722	%, val perf 	87.542686397268	%	
+epoch:	22	train perf:	92.893987341772	%, val perf 	87.71343198634	%	
+epoch:	23	train perf:	93.214398734177	%, val perf 	87.656516789983	%	
+epoch:	24	train perf:	93.313291139241	%, val perf 	87.663631189528	%	
+epoch:	25	train perf:	93.479430379747	%, val perf 	87.734775184974	%	
+epoch:	26	train perf:	93.716772151899	%, val perf 	87.60671599317	%	
+epoch:	27	train perf:	93.849683544304	%, val perf 	87.400398406375	%	
+epoch:	28	train perf:	93.987341772152	%, val perf 	87.656516789983	%	
+epoch:	29	train perf:	94.10996835443	%, val perf 	87.229652817302	%	
+epoch:	30	train perf:	94.264240506329	%, val perf 	86.980648833238	%	
+epoch:	31	train perf:	94.454905063291	%, val perf 	87.39328400683	%	
+epoch:	32	train perf:	94.518987341772	%, val perf 	87.258110415481	%	
+epoch:	33	train perf:	94.676424050633	%, val perf 	87.421741605009	%	
+epoch:	34	train perf:	94.777689873418	%, val perf 	87.27233921457	%	
+epoch:	35	train perf:	94.935917721519	%, val perf 	87.222538417758	%	
+epoch:	36	train perf:	95.018987341772	%, val perf 	87.492885600455	%	
+epoch:	37	train perf:	95.074367088608	%, val perf 	87.357712009106	%	
+epoch:	38	train perf:	95.245253164557	%, val perf 	86.980648833238	%	
+epoch:	39	train perf:	95.370253164557	%, val perf 	87.186966420034	%	
+epoch:	40	train perf:	95.32832278481	%, val perf 	87.073136027319	%	
+epoch:	41	train perf:	95.496835443038	%, val perf 	86.895276038702	%	
+epoch:	42	train perf:	95.534018987342	%, val perf 	87.215424018213	%	
+epoch:	43	train perf:	95.674050632911	%, val perf 	87.194080819579	%	
+epoch:	44	train perf:	95.832278481013	%, val perf 	87.364826408651	%	
+epoch:	45	train perf:	95.846518987342	%, val perf 	86.93796243597	%	
+epoch:	46	train perf:	95.932753164557	%, val perf 	86.980648833238	%	
+epoch:	47	train perf:	96.009493670886	%, val perf 	87.1656232214	%	
+epoch:	48	train perf:	96.107594936709	%, val perf 	87.265224815026	%	
+epoch:	49	train perf:	96.026107594937	%, val perf 	87.137165623221	%	
+epoch:	50	train perf:	96.216772151899	%, val perf 	87.037564029596	%	
+best dev err:	88.118952760387	%, epoch 	7	
+test perf 	87.60092272203	%	
+saving checkpoint to 	results/20161002_2335_model_10.t7	
+dev scores:	
+{
+  1 : 0.88147410358566
+  2 : 0.87798804780876
+  3 : 0.88118952760387
+  4 : 0.88012236767217
+  5 : 0.87670745589072
+  6 : 0.87891291974957
+  7 : 0.87706317586796
+  8 : 0.87628059191804
+  9 : 0.87933978372225
+  10 : 0.88118952760387
+}
+average dev score: 	0.87902675014229	
+test scores:	
+{
+  1 : 0.87261309752659
+  2 : 0.87985390234525
+  3 : 0.87908496732026
+  4 : 0.87914904523901
+  5 : 0.87754709727028
+  6 : 0.87805972062027
+  7 : 0.87722670767653
+  8 : 0.8756247597078
+  9 : 0.87581699346405
+  10 : 0.8760092272203
+}
+average test score: 	0.87709855183904	

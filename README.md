@@ -43,7 +43,7 @@ The script will output custom.hdf5 input file for torch training tool.
 ## Results.
 Dataset | dev | test
 ---|---|---
-binary classification | |
+binary classification |87.90 | 87.71
 all sentiment classes | |
       
 
