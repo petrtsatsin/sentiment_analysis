@@ -49,6 +49,4 @@ all sentiment classes | |
 
 ## Relevant publications
 
-This code is based on Kim (2014) and the corresponding Theano [code](https://github.com/yoonkim/CNN_sentence/).
-
     Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 1746–1751, Doha, Qatar. Association for Computational Linguistics.
