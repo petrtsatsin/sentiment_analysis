@@ -41,10 +41,13 @@ After that I use the preprocessing util from sent-conv-torch to create a custom 
 The script will output custom.hdf5 input file for torch training tool.
 
 ## Results.
+
+I did couple experiments with "binary" classification (pos/negative) and the best results I got with "non-static" embeddings, where the word embedding consists of two channels. One channel is non-static enbedding which is fined tuned during optimization and the other one is static word2vec embedding. Best result I get is around 87.71%. Also, if you look at the plot of learning curves in a Results notebook it can be cleraly seen that model is overfitting. I also tried to predict fine grained sentimen and get around 68%. I also tried to fix the class disbalance by providing a class weights to Loss function. Ths experinemt did not impove global performance.   
+
 Dataset | dev | test
 ---|---|---
 binary classification |87.90 | 87.71
-all sentiment classes | |
+all sentiment classes |N/A | ~68%
       
 
 ## Relevant publications
