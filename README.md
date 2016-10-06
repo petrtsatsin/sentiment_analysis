@@ -1,6 +1,7 @@
 # sentiment_analysis
 
 ## Goal
+
 The task here is to create a classifier to predict sentiment using training data
 from Kaggle https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data.
 Assess model repformance using 10-fold validation.
